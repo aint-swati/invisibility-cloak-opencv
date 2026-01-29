@@ -40,4 +40,6 @@ Invisibility-Cloak/
 
 ##Demo
 
-![Cloak Demo](https://github.com/user-attachments/assets/5fe857ec-d632-466b-a110-b1eb91210c6c)
+![Cloak Demo]<img width="1912" height="762" alt="Screenshot 2026-01-29 171952" src="https://github.com/user-attachments/assets/e0545880-41ac-4644-ad77-b2f027fd89d9" />
+<img width="1917" height="762" alt="Screenshot 2026-01-29 171941" src="https://github.com/user-attachments/assets/ae448091-a4ed-4ee6-976a-ed807e3b7740" />
+(https://github.com/user-attachments/assets/5fe857ec-d632-466b-a110-b1eb91210c6c)
