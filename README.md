@@ -38,8 +38,6 @@ Invisibility-Cloak/
 - Stay out of the frame while the background is being captured.
 - Cover yourself with the cloth to see the invisibility effect.
 
-##Screenshots
-<img width="1912" height="762" alt="Screenshot 2026-01-29 171952" src="https://github.com/user-attachments/assets/8ce1c51c-8789-4f4c-b86c-c7334e548398" />
-<img width="1917" height="762" alt="Screenshot 2026-01-29 171941" src="https://github.com/user-attachments/assets/2f99048f-eea5-4ff4-a9fb-915306442a8d" />
+##Demo
 
 ![Cloak Demo](https://github.com/user-attachments/assets/5fe857ec-d632-466b-a110-b1eb91210c6c)
